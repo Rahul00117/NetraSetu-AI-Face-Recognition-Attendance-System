@@ -6,8 +6,6 @@ Pillow==10.3.0
 scikit-image==0.22.0
 scikit-learn==1.4.2
 
-torch==2.2.2
-torchvision==0.17.2
 onnxruntime==1.17.3
 
 tqdm==4.66.4
